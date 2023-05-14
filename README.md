@@ -41,4 +41,11 @@
 ## 我想通过游戏表达的（个人观点，不喜勿喷）：
 在我眼里我们每个人都处于自己的一个小的维度上，我们限于我们自身总是只能在自己的维度上看待事物和问题，在这个有限的维度上为了去到更高的维度而不断的为自己同一个维度的事物所斗争（如游戏中的食物等），但事实上是，当你进入到另一个更高的维度时，这个维度仍然会有事物需要你去斗争，以此循环，但事实上，每个维度都有比其更高的维度，都会有更高级的形式对其进行控制，就像当你开始游戏的那一刻起，表面是你在玩这个游戏，事实上我也通过这个游戏对你进行了一系列控制，我也在进入四维的话中写了“In what dimension do you reside?”以及“In what class do you belong?”，那我们在当今世界处于哪个维度，哪个阶级，我们又应该如何看待我们所处的层次，是我们所需要思考的。
 ## 全流程视频（to do）
+#### 一些源码出处：
+二维原型（https://zhuanlan.zhihu.com/p/126175267）  
+二点五维原型（https://codebus.cn/taor/rt-snake）  
+蓝屏原型（https://blog.csdn.net/jinboxin_/article/details/124178915）  
+Messagebox（https://download.csdn.net/download/uuuhhjjk/87696438?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-download-2%7Edefault%7ECTRLIST%7EAntiPaid-1-87696438-blog-105110236.235%5Ev32%5Epc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant.none-task-download-2%7Edefault%7ECTRLIST%7EAntiPaid-1-87696438-blog-105110236.235%5Ev32%5Epc_relevant_default_base3）  
+结尾原型（https://codebus.cn/yangw/word-art-freeze）  
+
 
