@@ -1,0 +1,242 @@
+﻿  MyGame.cpp
+D:\MyGame\MyGame\one_dimential_snake.cpp(71,10): warning C4129: “D”: 不可识别的字符转义序列
+D:\MyGame\MyGame\two_dimential_snake.cpp(449,9): warning C4476: "printf": 格式说明符中的类型字段字符“)”未知
+D:\MyGame\MyGame\two_dimential_snake.cpp(449,9): warning C4476: "printf": 格式说明符中的类型字段字符“\xe9”未知
+D:\MyGame\MyGame\three_dimential_snake.cpp(15,47): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(18,33): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(19,34): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(20,41): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(230,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(230,39): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(231,47): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(231,39): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(232,52): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(232,41): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(233,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(233,41): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(243,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(245,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(249,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(255,31): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(256,23): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(267,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(269,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(273,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(279,31): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(280,23): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(293,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(294,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(296,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(297,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(299,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(300,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(302,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(303,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(306,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(307,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(309,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(310,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(312,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(313,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(315,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(316,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(418,48): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(425,48): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(431,48): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(438,48): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(448,28): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(449,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(467,32): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(470,32): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(473,32): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(476,35): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(478,22): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(500,31): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(552,33): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(555,33): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(558,33): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(561,36): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(572,33): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(575,33): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(578,33): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(581,36): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(653,42): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(653,34): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(653,19): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(662,42): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(662,34): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(662,19): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(671,42): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(671,34): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(671,19): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(680,42): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(680,34): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(680,19): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\three_dimential_snake.cpp(788,36): warning C4305: “-=”: 从“double”到“float”截断
+D:\MyGame\MyGame\three_dimential_snake.cpp(793,36): warning C4305: “+=”: 从“double”到“float”截断
+D:\MyGame\MyGame\four_dimential_snake.cpp(156,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(156,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(157,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(157,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(158,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(158,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(158,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(159,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(159,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(159,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(165,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(165,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(166,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(166,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(167,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(167,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(167,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(168,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(168,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(168,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(174,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(174,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(175,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(175,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(176,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(176,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(176,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(177,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(177,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(177,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(184,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(184,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(185,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(185,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(186,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(186,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(186,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(187,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(187,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(187,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(193,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(193,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(193,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(194,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(194,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(194,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(195,50): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(195,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(195,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(196,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(196,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(196,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(202,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(202,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(203,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(203,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(204,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(204,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(205,45): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(205,38): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\MyGame\MyGame\four_dimential_snake.cpp(275,44): warning C4305: “-=”: 从“double”到“float”截断
+D:\MyGame\MyGame\four_dimential_snake.cpp(280,44): warning C4305: “+=”: 从“double”到“float”截断
+D:\MyGame\MyGame\MyGame.cpp(294,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\MyGame\MyGame\MyGame.cpp(354,12): warning C4129: “D”: 不可识别的字符转义序列
+  two_half_dimential_snake.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+MyGame.obj : warning LNK4006: "void __cdecl changeCamX_fourdim(float)" (?changeCamX_fourdim@@YAXM@Z) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl changeCamZ_fourdim(float)" (?changeCamZ_fourdim@@YAXM@Z) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl count_time_(void)" (?count_time_@@YAXXZ) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl display_fourdim(void)" (?display_fourdim@@YAXXZ) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl drawSkybox_fourdim(void)" (?drawSkybox_fourdim@@YAXXZ) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl four_dimential_snake(void)" (?four_dimential_snake@@YAXXZ) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl initialize_fourdim(void)" (?initialize_fourdim@@YAXXZ) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl loadGLTextures_fourdim(void)" (?loadGLTextures_fourdim@@YAXXZ) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl loadTGA_fourdim(char const *)" (?loadTGA_fourdim@@YAXPEBD@Z) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl special_fourdim(int,int,int)" (?special_fourdim@@YAXHHH@Z) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl timer_fourdim(int)" (?timer_fourdim@@YAXH@Z) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "void __cdecl vertex_fourdim(struct Vertex_fourdim *)" (?vertex_fourdim@@YAXPEAUVertex_fourdim@@@Z) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "unsigned int * texId_fourdim" (?texId_fourdim@@3PAIA) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "struct MovingObject_fourdim cam_fourdim" (?cam_fourdim@@3UMovingObject_fourdim@@A) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+MyGame.obj : warning LNK4006: "int count_time_fourdim" (?count_time_fourdim@@3HA) 已在 four_dimential_snake.obj 中定义；已忽略第二个定义
+one_dimential_snake.obj : warning LNK4006: "void __cdecl one_dimensional_snake(void)" (?one_dimensional_snake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "bool __cdecl camWithinDoorwayWalls(void)" (?camWithinDoorwayWalls@@YA_NXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "bool __cdecl camWithinWalls(void)" (?camWithinWalls@@YA_NXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl changeCamX(float)" (?changeCamX@@YAXM@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl changeCamZ(float)" (?changeCamZ@@YAXM@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl display(void)" (?display@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawCompleteMaze(void)" (?drawCompleteMaze@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawDoor1(void)" (?drawDoor1@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawDoor2(void)" (?drawDoor2@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawGround(void)" (?drawGround@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawMaze(bool)" (?drawMaze@@YAX_N@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawSkybox(void)" (?drawSkybox@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl drawSnake_gl(void)" (?drawSnake_gl@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl initialize(void)" (?initialize@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl loadGLTextures(void)" (?loadGLTextures@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl loadTGA(char const *)" (?loadTGA@@YAXPEBD@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl moveDoors(void)" (?moveDoors@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl normal(struct Vertex *,struct Vertex *,struct Vertex *,bool)" (?normal@@YAXPEAUVertex@@00_N@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl special(int,int,int)" (?special@@YAXHHH@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl three_dimential_snake(void)" (?three_dimential_snake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl timer(int)" (?timer@@YAXH@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl timer_callback(void)" (?timer_callback@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "void __cdecl vertex(struct Vertex *)" (?vertex@@YAXPEAUVertex@@@Z) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "unsigned int * texId" (?texId@@3PAIA) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "struct Door door" (?door@@3UDoor@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "struct MovingObject cam" (?cam@@3UMovingObject@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "struct MovingObject snake_gl" (?snake_gl@@3UMovingObject@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "bool light1Enabled" (?light1Enabled@@3_NA) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "int change_colour" (?change_colour@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+three_dimential_snake.obj : warning LNK4006: "int count_time" (?count_time@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int __cdecl biteself(void)" (?biteself@@YAHXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl cantcrosswall(void)" (?cantcrosswall@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl creatMap(void)" (?creatMap@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl createfood(void)" (?createfood@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl endgame1(void)" (?endgame1@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl endgame2(void)" (?endgame2@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl final_end(void)" (?final_end@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl gamecircle1(void)" (?gamecircle1@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl gamecircle2(void)" (?gamecircle2@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl gamecircle3(void)" (?gamecircle3@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl gamestart1(void)" (?gamestart1@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl gamestart2(void)" (?gamestart2@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl gamestart3(void)" (?gamestart3@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl initsnake(void)" (?initsnake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl snakemove(void)" (?snakemove@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl two_dimential_snake(void)" (?two_dimential_snake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl welcometogame1(void)" (?welcometogame1@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "void __cdecl welcometogame2(void)" (?welcometogame2@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int score" (?score@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int add" (?add@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int status" (?status@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int sleeptime" (?sleeptime@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "struct SNAKE * head" (?head@@3PEAUSNAKE@@EA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "struct SNAKE * food" (?food@@3PEAUSNAKE@@EA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "struct SNAKE * q" (?q@@3PEAUSNAKE@@EA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int endgamestatus" (?endgamestatus@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_dimential_snake.obj : warning LNK4006: "int judge" (?judge@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl DrawWall(void)" (?DrawWall@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl DrawWall_S(void)" (?DrawWall_S@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl EatFood(void)" (?EatFood@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "int __cdecl EndScreen(void)" (?EndScreen@@YAHXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl GameOver(void)" (?GameOver@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl Init_Food(void)" (?Init_Food@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl Init_Snake(void)" (?Init_Snake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl KeyDown(void)" (?KeyDown@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl MoveSnake(void)" (?MoveSnake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl PrintForm(void)" (?PrintForm@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl PrintForm_S(void)" (?PrintForm_S@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl ShowFood(void)" (?ShowFood@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl ShowFood_S(void)" (?ShowFood_S@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl ShowSnake(void)" (?ShowSnake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl ShowSnake_S(void)" (?ShowSnake_S@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl loadResources(void)" (?loadResources@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "void __cdecl two_half_dimential_snake(void)" (?two_half_dimential_snake@@YAXXZ) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "char const * const IMAGE_PATH" (?IMAGE_PATH@@3PEBDEB) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "char (* name)[15]" (?name@@3PAY0P@DA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "char (* tipsName)[15]" (?tipsName@@3PAY0P@DA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "struct _snake snake_2" (?snake_2@@3U_snake@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "struct _food food_2" (?food_2@@3U_food@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "int change_S" (?change_S@@3HA) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "class IMAGE * img" (?img@@3PAVIMAGE@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+two_half_dimential_snake.obj : warning LNK4006: "class IMAGE * tips" (?tips@@3PAVIMAGE@@A) 已在 MyGame.obj 中定义；已忽略第二个定义
+D:\MyGame\x64\Debug\MyGame.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  MyGame.vcxproj -> D:\MyGame\x64\Debug\MyGame.exe
